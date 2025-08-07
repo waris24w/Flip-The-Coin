@@ -4,7 +4,7 @@
 
   <h2>🌐 Live Demo</h2>
   <p>Check out the live version here:<br>
-    🔗 <a href="https://your-live-link.netlify.app/" target="_blank">https://your-live-link.netlify.app/</a>
+    🔗 <a href="https://waris24w.github.io/Flip-The-Coin/" target="_blank">Visit live Demo</a>
   </p>
 
   <h2>📸 Screenshot</h2>
